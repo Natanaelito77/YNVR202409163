@@ -1,0 +1,6 @@
+@YNVR202409163_HostAddress = http://localhost:5154
+
+GET {{YNVR202409163_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
